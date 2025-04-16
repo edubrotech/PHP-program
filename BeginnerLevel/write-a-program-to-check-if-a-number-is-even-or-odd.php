@@ -9,7 +9,7 @@ function checkEvenOrOdd($number){
 
     return "$number is an Odd number";
    }
-
+write-a-php-script-to-find-the-sum-of-natural-numbers-up-to-a-given-number
 }
 
 /// call function
