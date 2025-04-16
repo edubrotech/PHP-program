@@ -1,5 +1,5 @@
 <?php
-// Function to print Fibonacci sequence up to N terms
+// Function to print Fibonacci sequence up to N terms in #edubrotech
 function printFibonacci($n)
 {
     $first = 0;
