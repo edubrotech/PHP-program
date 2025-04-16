@@ -1,5 +1,5 @@
 <?php
-## Write a program to check if a number is even or odd
+## Write a program to check if a number is even or odd in #edubrotech
 function checkEvenOrOdd($number){
 
    if($number%2==0){

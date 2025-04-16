@@ -1,5 +1,5 @@
 <?php
-// Function to calculate factorial
+// Function to calculate factorial in #edubrotech
 function findFactorial($number)
 {
     $factorial = 1;
