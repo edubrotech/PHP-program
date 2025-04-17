@@ -1,5 +1,6 @@
 <?php
-// Function to check if a number is prime @edubrotech
+// Function to check if a number is prime   @edubrotech
+// link:- https://www.youtube.com/@edubrotech?sub_confirmation=1
 function isPrime($num)
 {
     if ($num <= 1) {
